@@ -1,0 +1,48 @@
+.logo{
+    width: 14%;
+
+}
+header{
+    border-bottom: 1px solid #f6b46a;
+
+}
+.header{
+    position: relative;
+}
+
+.menu {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+.header-discord{
+    max-width: 3%;
+
+}
+.header-twitter{
+    max-width: 2%;
+}
+.header-insta{
+    max-width: 2%;
+}
+.header-opensea{
+    max-width: 2%;
+}
+.navigation{
+    color: #79dff1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navigation-item{
+    margin: 0 8px;
+    font-size: 20px;
+
+}
+.header-button{
+    margin-left: 5px;
+}

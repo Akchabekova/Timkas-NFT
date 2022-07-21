@@ -1,0 +1,38 @@
+.slick-slide {
+    margin: 40px 5px;
+}
+.slick-list {
+    margin: 0px -5px 0px -5px;
+}
+.slider{
+    display: flex;
+    margin-top: 300px;
+    background-color: #f8e6c6;
+
+}
+.slider img{
+    height: 342px;
+    margin: 4px 8px;
+    transition: 0.6s;
+
+}
+.slider img:hover{
+    opacity: 0.9;
+    box-shadow:
+            1px 1px #f8e6c6,
+            2px 2px #f8e6c6,
+            3px 3px #f8e6c6,
+            4px 4px #f8e6c6,
+            5px 5px #f8e6c6,
+            6px 6px #f8e6c6,
+            7px 7px #f8e6c6;
+    -webkit-transform: translateX(-7px);
+    transform: translateX(-7px);
+}
+
+
+
+
+
+
+

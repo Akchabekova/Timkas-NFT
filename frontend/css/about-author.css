@@ -1,0 +1,30 @@
+.about-author{
+    /*background-color: #66d9ff;*/
+margin: 20px 0 300px 0;
+}
+
+.row{
+    display: flex;
+   flex-wrap: wrap;
+}
+.col-6{
+    width: 50%;
+    padding: 0 15px;
+    color: black;
+    font-size: 40px;
+
+}.col-6 img{
+    width: 400px;
+    height: 350px;
+    margin-left: 130px;
+ }
+ .author-img{
+     margin-left: 10px;
+ }
+
+.col-6.desc {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
